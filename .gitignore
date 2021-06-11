@@ -74,9 +74,6 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 
 # contenido
-Content/StarterContent/
-Content/StarterContent/*
-Content/StarterContent
 Content/ModernCityEnvironment01/
 Content/ModernCityEnvironment01/*
 Content/ModernCityEnvironment01
@@ -84,3 +81,4 @@ Content/MultistoryDungeons/*
 Content/quixel/*
 Content/VolumetricGlass/*
 Content/AdvancedGlassPack/*
+Content/HQ_ResidentialHouse/*
