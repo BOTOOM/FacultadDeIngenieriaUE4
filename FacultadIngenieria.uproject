@@ -17,5 +17,14 @@
 			"Name": "DatasmithFBXImporter",
 			"Enabled": true
 		}
+	],
+	"TargetPlatforms": [
+		"Android",
+		"AllDesktop",
+		"HoloLens",
+		"LinuxNoEditor",
+		"LinuxAArch64NoEditor",
+		"WindowsNoEditor",
+		"WindowsNoEditorWin32"
 	]
 }
