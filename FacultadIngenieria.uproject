@@ -16,6 +16,10 @@
 		{
 			"Name": "DatasmithFBXImporter",
 			"Enabled": true
+		},
+		{
+			"Name": "HoudiniNiagara",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
