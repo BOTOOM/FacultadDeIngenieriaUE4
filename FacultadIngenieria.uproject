@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "4.25",
+	"EngineAssociation": "5.0",
 	"Category": "",
 	"Description": "",
 	"Plugins": [
@@ -15,10 +15,6 @@
 		},
 		{
 			"Name": "DatasmithFBXImporter",
-			"Enabled": true
-		},
-		{
-			"Name": "HoudiniNiagara",
 			"Enabled": true
 		}
 	],
