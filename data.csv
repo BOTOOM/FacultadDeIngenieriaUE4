@@ -1,99 +1,99 @@
-tag;nombre;piso;mostrar descripcion;descripcion
-bib;Biblioteca ;1;true;Puedes estudiar con tranquilidad. Tambien puedes solicitar libros y portatiles
-cafe;Cafeteria;1;false;
-bienes;Bienestar institucional;1;true;Bienestar institucional ofrece multiples servicios que puedes encontrar en su pagina web
-aud;Auditorio ;1;true;Bajando por las escaleras tambien encontraras la sala de videoconferencias y los parqueaderos
-plaz;Plazoleta;1;false;
-e8;Entrada Carrera octava;1;false;
-e7;Entrada Carreta septima;1;false;
-exit;Punto de encuentro;1;false;
-b1;Bathroom piso 1;1;true;Bathroom de hombres y de mujeres
-s201;Salon 201;2;false;
-s202;Salon 202;2;false;
-s203;Salon 203;2;false;
-s204;Salon 204;2;false;
-s205;Salon 205;2;false;
-s206;Salon 206;2;false;
-b2;Bathroom piso 2;2;true;Bathroom de hombres y de mujeres
-s301;Salon 301;3;false;
-s302;Salon 302;3;false;
-s303;Salon 303;3;false;
-s304;Salon 304;3;false;
-s305;Salon 305;3;false;
-s306;Salon 306;3;false;
-s307;Salon 307;3;false;
-s308;Salon 308;3;false;
-s309;Salon 309;3;false;
-s310;Salon 310;3;false;
-s311;Salon 311;3;false;
-s312;Salon 312;3;false;
-b3;Bathroom piso 3;3;true;Bathroom de hombres y de mujeres
-alfoto;Almacen<br>de fotogrametria;3;false;
-s401;Salon 401;4;false;
-s402;Salon 402;4;false;
-s403;Salon 403;4;false;
-s404;Salon 404;4;false;
-s405;Salon 405;4;false;
-s406;Salon 406;4;false;
-s407;Salon 407;4;false;
-s408;Salon 408;4;false;
-s409;Salon 409;4;false;
-s410;Salon 410;4;false;
-s411;Salon 411;4;false;
-s412;Salon 412;4;false;
-b4;Bathroom piso 4;4;true;Bathroom de hombres y de mujeres
-sid;Semana de<br>ingenio y diseno;4;false;
-cg1;Centro de gestion;4;false;
-cg2;Centro de gestion;4;false;
-ieee;IEEE UD;4;false;
-s500;Salon 500;5;false;
-s501;Salon 501;5;false;
-s502;Salon 502;5;false;
-s503;Salon 503;5;false;
-s504;Salon 504;5;false;
-s505;Salon 505;5;false;
-s506;Salon 506;5;false;
-s507;Salon 507;5;false;
-s508;Salon 508;5;false;
-s509;Salon 509;5;true;Laboratorio de fisica
-s510;Salon 510;5;true;
-CoorLab;Coordilacion<br>de laboratorios;5;false;
-mTele5;Maestria en<br>telecomunicaciones<br>moviles;5;false;
-labnano;Laboratorio de<br>nanotecnologia;5;false;
-labfoto;Laboratorio de<br>fotogrametria<br>digital;5;false;
-b5;Bathroom piso 5;5;true;Bathroom de hombres y de mujeres
-labcir;Laboratorio<br>de circuitos;6;false;
-labelc1;Laboratorio<br>de electronica;6;false;
-labelc2;Laboratorio<br>de electronica;6;false;
-labelcb;Laboratorio<br>de electronica<br>basica;6;false;
-labma;Laboratorio de<br>maquinas;6;false;
-labcom;Laboratorio de<br>comunicaciones;6;false;
-admisa;Administracion<br>de salas de<br>informatica;6;false;
-admilab;Almacen de<br>laboratorios;6;false;
-s601;Salon 601;6;false;
-labdi;Laboratorio de<br>digitles;6;false;
-astro;Astrofisica y ondas<br>electromagneticas;6;false;
-tele;Laboratorio de<br>television;6;false;
-gibud;GIBIUD;6;false;
-labinv;Laboratorio de<br>ingenieria inversa;6;false;
-gitud;GITUD;6;false;
-mTele6;Maestria en<br>telecomunicaciones<br>moviles;6;false;
-sii;Semana de<br>ingenieria<br>industrial;6;false;
-b6;Bathroom piso 6;6;true;Bathroom solo de mujeres
-s701;Sala de<br>informatica<br>701;7;false;
-s702;Sala de<br>informatica 702;7;false;
-s703;Sala de<br>informatica 703;7;false;
-s704;Sala de<br>informatica 704;7;false;
-s705;Sala de<br>informatica 705;7;false;
-gitem;Grupo de<br>investigacion<br>GITEM;;;
-labisf;Laboratorio de<br>ingenieria de<br>software;;false;
-labcc;Laboratorio de<br>ciencias de<br>la computacion;;false;
-labct;Laboratorio<br>de control;;false;
-labhi;Laboratorio<br>de hidraulica<br>y ergonomia;;false;
-lamic;Grupo de<br>investigacion<br>LAMIC;;false;
-evado;Oficina de<br>evaluacion<br>docente;;false;
-lifae;Grupo de<br>investigacion<br>LIFAE;;false;
-laser;Grupo de<br>investigacion<br>LASER;;false;
-dsp;Grupo de<br>investigacion<br>DSP;;false;
-b7;Bathroom piso 7;;true;Bathroom solo de hombres
-ter;Terraza;8;false;
+tag;nombre;piso;mostrar descripcion;descripcion;nombre2
+bib;Biblioteca ;1;true;Puedes estudiar con tranquilidad. Tambien puedes solicitar libros y portatiles;Biblioteca 
+cafe;Cafeteria;1;false;;Cafeteria
+bienes;Bienestar institucional;1;true;Bienestar institucional ofrece multiples servicios que puedes encontrar en su pagina web;Bienestar institucional
+aud;Auditorio ;1;true;Bajando por las escaleras tambien encontraras la sala de videoconferencias y los parqueaderos;Auditorio 
+plaz;Plazoleta;1;false;;Plazoleta
+e8;Entrada Carrera octava;1;false;;Entrada Carrera octava
+e7;Entrada Carreta septima;1;false;;Entrada Carreta septima
+exit;Punto de encuentro;1;false;;Punto de encuentro
+b1;Bathroom piso 1;1;true;Bathroom de hombres y de mujeres;Bathroom piso 1
+s201;Salon 201;2;false;;Salon 201
+s202;Salon 202;2;false;;Salon 202
+s203;Salon 203;2;false;;Salon 203
+s204;Salon 204;2;false;;Salon 204
+s205;Salon 205;2;false;;Salon 205
+s206;Salon 206;2;false;;Salon 206
+b2;Bathroom piso 2;2;true;Bathroom de hombres y de mujeres;Bathroom piso 2
+s301;Salon 301;3;false;;Salon 301
+s302;Salon 302;3;false;;Salon 302
+s303;Salon 303;3;false;;Salon 303
+s304;Salon 304;3;false;;Salon 304
+s305;Salon 305;3;false;;Salon 305
+s306;Salon 306;3;false;;Salon 306
+s307;Salon 307;3;false;;Salon 307
+s308;Salon 308;3;false;;Salon 308
+s309;Salon 309;3;false;;Salon 309
+s310;Salon 310;3;false;;Salon 310
+s311;Salon 311;3;false;;Salon 311
+s312;Salon 312;3;false;;Salon 312
+b3;Bathroom piso 3;3;true;Bathroom de hombres y de mujeres;Bathroom piso 3
+alfoto;Almacen<br>de fotogrametria;3;false;;Almacen de fotogrametria
+s401;Salon 401;4;false;;Salon 401
+s402;Salon 402;4;false;;Salon 402
+s403;Salon 403;4;false;;Salon 403
+s404;Salon 404;4;false;;Salon 404
+s405;Salon 405;4;false;;Salon 405
+s406;Salon 406;4;false;;Salon 406
+s407;Salon 407;4;false;;Salon 407
+s408;Salon 408;4;false;;Salon 408
+s409;Salon 409;4;false;;Salon 409
+s410;Salon 410;4;false;;Salon 410
+s411;Salon 411;4;false;;Salon 411
+s412;Salon 412;4;false;;Salon 412
+b4;Bathroom piso 4;4;true;Bathroom de hombres y de mujeres;Bathroom piso 4
+sid;Semana de<br>ingenio y diseno;4;false;;Semana de ingenio y diseno
+cg1;Centro de gestion;4;false;;Centro de gestion
+cg2;Centro de gestion;4;false;;Centro de gestion
+ieee;IEEE UD;4;false;;IEEE UD
+s500;Salon 500;5;false;;Salon 500
+s501;Salon 501;5;false;;Salon 501
+s502;Salon 502;5;false;;Salon 502
+s503;Salon 503;5;false;;Salon 503
+s504;Salon 504;5;false;;Salon 504
+s505;Salon 505;5;false;;Salon 505
+s506;Salon 506;5;false;;Salon 506
+s507;Salon 507;5;false;;Salon 507
+s508;Salon 508;5;false;;Salon 508
+s509;Salon 509;5;true;Laboratorio de fisica;Salon 509
+s510;Salon 510;5;true;;Salon 510
+CoorLab;Coordilacion<br>de laboratorios;5;false;;Coordilacion de laboratorios
+mTele5;Maestria en<br>telecomunicaciones<br>moviles;5;false;;Maestria en telecomunicaciones moviles
+labnano;Laboratorio de<br>nanotecnologia;5;false;;Laboratorio de nanotecnologia
+labfoto;Laboratorio de<br>fotogrametria<br>digital;5;false;;Laboratorio de fotogrametria digital
+b5;Bathroom piso 5;5;true;Bathroom de hombres y de mujeres;Bathroom piso 5
+labcir;Laboratorio<br>de circuitos;6;false;;Laboratorio de circuitos
+labelc1;Laboratorio<br>de electronica;6;false;;Laboratorio de electronica
+labelc2;Laboratorio<br>de electronica;6;false;;Laboratorio de electronica
+labelcb;Laboratorio<br>de electronica<br>basica;6;false;;Laboratorio de electronica basica
+labma;Laboratorio de<br>maquinas;6;false;;Laboratorio de maquinas
+labcom;Laboratorio de<br>comunicaciones;6;false;;Laboratorio de comunicaciones
+admisa;Administracion<br>de salas de<br>informatica;6;false;;Administracion de salas de informatica
+admilab;Almacen de<br>laboratorios;6;false;;Almacen de laboratorios
+s601;Salon 601;6;false;;Salon 601
+labdi;Laboratorio de<br>digitles;6;false;;Laboratorio de digitles
+astro;Astrofisica y ondas<br>electromagneticas;6;false;;Astrofisica y ondas electromagneticas
+tele;Laboratorio de<br>television;6;false;;Laboratorio de television
+gibud;GIBIUD;6;false;;GIBIUD
+labinv;Laboratorio de<br>ingenieria inversa;6;false;;Laboratorio de ingenieria inversa
+gitud;GITUD;6;false;;GITUD
+mTele6;Maestria en<br>telecomunicaciones<br>moviles;6;false;;Maestria en telecomunicaciones moviles
+sii;Semana de<br>ingenieria<br>industrial;6;false;;Semana de ingenieria industrial
+b6;Bathroom piso 6;6;true;Bathroom solo de mujeres;Bathroom piso 6
+s701;Sala de<br>informatica<br>701;7;false;;Sala de informatica 701
+s702;Sala de<br>informatica 702;7;false;;Sala de informatica 702
+s703;Sala de<br>informatica 703;7;false;;Sala de informatica 703
+s704;Sala de<br>informatica 704;7;false;;Sala de informatica 704
+s705;Sala de<br>informatica 705;7;false;;Sala de informatica 705
+gitem;Grupo de<br>investigacion<br>GITEM;7;;;Grupo de investigacion GITEM
+labisf;Laboratorio de<br>ingenieria de<br>software;7;false;;Laboratorio de ingenieria de software
+labcc;Laboratorio de<br>ciencias de<br>la computacion;7;false;;Laboratorio de ciencias de la computacion
+labct;Laboratorio<br>de control;7;false;;Laboratorio de control
+labhi;Laboratorio<br>de hidraulica<br>y ergonomia;7;false;;Laboratorio de hidraulica y ergonomia
+lamic;Grupo de<br>investigacion<br>LAMIC;7;false;;Grupo de investigacion LAMIC
+evado;Oficina de<br>evaluacion<br>docente;7;false;;Oficina de evaluacion docente
+lifae;Grupo de<br>investigacion<br>LIFAE;7;false;;Grupo de investigacion LIFAE
+laser;Grupo de<br>investigacion<br>LASER;7;false;;Grupo de investigacion LASER
+dsp;Grupo de<br>investigacion<br>DSP;7;false;;Grupo de investigacion DSP
+b7;Bathroom piso 7;7;true;Bathroom solo de hombres;Bathroom piso 7
+ter;Terraza;8;false;;Terraza
