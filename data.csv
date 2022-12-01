@@ -6,7 +6,6 @@ aud;Auditorio ;1;true;Bajando por las escaleras tambien encontraras la sala de v
 plaz;Plazoleta;1;false;;Plazoleta
 e8;Entrada Carrera octava;1;false;;Entrada Carrera octava
 e7;Entrada Carreta septima;1;false;;Entrada Carreta septima
-exit;Punto de encuentro;1;false;;Punto de encuentro
 b1;Bathroom piso 1;1;true;Bathroom de hombres y de mujeres;Bathroom piso 1
 s201;Salon 201;2;false;;Salon 201
 s202;Salon 202;2;false;;Salon 202
