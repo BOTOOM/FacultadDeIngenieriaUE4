@@ -1,4 +1,4 @@
-tag;nombre;piso;mostrar descripcion;descripcion;nombre2
+tag;nombre;piso;mostrarDescripcion;descripcion;nombre2
 bib;Biblioteca ;1;true;Puedes estudiar con tranquilidad. Tambien puedes solicitar libros y portatiles;Biblioteca 
 cafe;Cafeteria;1;false;;Cafeteria
 bienes;Bienestar institucional;1;true;Bienestar institucional ofrece multiples servicios que puedes encontrar en su pagina web;Bienestar institucional
@@ -13,7 +13,7 @@ s203;Salon 203;2;false;;Salon 203
 s204;Salon 204;2;false;;Salon 204
 s205;Salon 205;2;false;;Salon 205
 s206;Salon 206;2;false;;Salon 206
-b2;Bathroom piso 2;2;true;Bathroom de hombres y de mujeres;Bathroom piso 2
+b2;Baño piso 2;2;true;Baño de hombres y de mujeres;Baño piso 2
 s301;Salon 301;3;false;;Salon 301
 s302;Salon 302;3;false;;Salon 302
 s303;Salon 303;3;false;;Salon 303
