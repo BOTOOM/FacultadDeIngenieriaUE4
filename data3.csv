@@ -1,0 +1,98 @@
+tag;nombre;piso;nombre2
+bib;Biblioteca ;1;Biblioteca 
+cafe;Cafeteria;1;Cafeteria
+bienes;Bienestar institucional;1;Bienestar institucional
+aud;Auditorio ;1;Auditorio 
+plaz;Plazoleta;1;Plazoleta
+e8;Entrada Carrera octava;1;Entrada Carrera octava
+e7;Entrada Carreta septima;1;Entrada Carreta septima
+b1;Bathroom piso 1;1;Bathroom piso 1
+s201;Salon 201;2;Salon 201
+s202;Salon 202;2;Salon 202
+s203;Salon 203;2;Salon 203
+s204;Salon 204;2;Salon 204
+s205;Salon 205;2;Salon 205
+s206;Salon 206;2;Salon 206
+b2;Bathroom piso 2;2;Bathroom piso 2
+s301;Salon 301;3;Salon 301
+s302;Salon 302;3;Salon 302
+s303;Salon 303;3;Salon 303
+s304;Salon 304;3;Salon 304
+s305;Salon 305;3;Salon 305
+s306;Salon 306;3;Salon 306
+s307;Salon 307;3;Salon 307
+s308;Salon 308;3;Salon 308
+s309;Salon 309;3;Salon 309
+s310;Salon 310;3;Salon 310
+s311;Salon 311;3;Salon 311
+s312;Salon 312;3;Salon 312
+b3;Bathroom piso 3;3;Bathroom piso 3
+alfoto;Almacen<br>de fotogrametria;3;Almacen de fotogrametria
+s401;Salon 401;4;Salon 401
+s402;Salon 402;4;Salon 402
+s403;Salon 403;4;Salon 403
+s404;Salon 404;4;Salon 404
+s405;Salon 405;4;Salon 405
+s406;Salon 406;4;Salon 406
+s407;Salon 407;4;Salon 407
+s408;Salon 408;4;Salon 408
+s409;Salon 409;4;Salon 409
+s410;Salon 410;4;Salon 410
+s411;Salon 411;4;Salon 411
+s412;Salon 412;4;Salon 412
+b4;Bathroom piso 4;4;Bathroom piso 4
+sid;Semana de<br>ingenio y diseno;4;Semana de ingenio y diseno
+cg1;Centro de gestion;4;Centro de gestion
+cg2;Centro de gestion;4;Centro de gestion
+ieee;IEEE UD;4;IEEE UD
+s500;Salon 500;5;Salon 500
+s501;Salon 501;5;Salon 501
+s502;Salon 502;5;Salon 502
+s503;Salon 503;5;Salon 503
+s504;Salon 504;5;Salon 504
+s505;Salon 505;5;Salon 505
+s506;Salon 506;5;Salon 506
+s507;Salon 507;5;Salon 507
+s508;Salon 508;5;Salon 508
+s509;Salon 509;5;Salon 509
+s510;Salon 510;5;Salon 510
+CoorLab;Coordilacion<br>de laboratorios;5;Coordilacion de laboratorios
+mTele5;Maestria en<br>telecomunicaciones<br>moviles;5;Maestria en telecomunicaciones moviles
+labnano;Laboratorio de<br>nanotecnologia;5;Laboratorio de nanotecnologia
+labfoto;Laboratorio de<br>fotogrametria<br>digital;5;Laboratorio de fotogrametria digital
+b5;Bathroom piso 5;5;Bathroom piso 5
+labcir;Laboratorio<br>de circuitos;6;Laboratorio de circuitos
+labelc1;Laboratorio<br>de electronica;6;Laboratorio de electronica
+labelc2;Laboratorio<br>de electronica;6;Laboratorio de electronica
+labelcb;Laboratorio<br>de electronica<br>basica;6;Laboratorio de electronica basica
+labma;Laboratorio de<br>maquinas;6;Laboratorio de maquinas
+labcom;Laboratorio de<br>comunicaciones;6;Laboratorio de comunicaciones
+admisa;Administracion<br>de salas de<br>informatica;6;Administracion de salas de informatica
+admilab;Almacen de<br>laboratorios;6;Almacen de laboratorios
+s601;Salon 601;6;Salon 601
+labdi;Laboratorio de<br>digitles;6;Laboratorio de digitles
+astro;Astrofisica y ondas<br>electromagneticas;6;Astrofisica y ondas electromagneticas
+tele;Laboratorio de<br>television;6;Laboratorio de television
+gibud;GIBIUD;6;GIBIUD
+labinv;Laboratorio de<br>ingenieria inversa;6;Laboratorio de ingenieria inversa
+gitud;GITUD;6;GITUD
+mTele6;Maestria en<br>telecomunicaciones<br>moviles;6;Maestria en telecomunicaciones moviles
+sii;Semana de<br>ingenieria<br>industrial;6;Semana de ingenieria industrial
+b6;Bathroom piso 6;6;Bathroom piso 6
+s701;Sala de<br>informatica<br>701;7;Sala de informatica 701
+s702;Sala de<br>informatica 702;7;Sala de informatica 702
+s703;Sala de<br>informatica 703;7;Sala de informatica 703
+s704;Sala de<br>informatica 704;7;Sala de informatica 704
+s705;Sala de<br>informatica 705;7;Sala de informatica 705
+gitem;Grupo de<br>investigacion<br>GITEM;7;Grupo de investigacion GITEM
+labisf;Laboratorio de<br>ingenieria de<br>software;7;Laboratorio de ingenieria de software
+labcc;Laboratorio de<br>ciencias de<br>la computacion;7;Laboratorio de ciencias de la computacion
+labct;Laboratorio<br>de control;7;Laboratorio de control
+labhi;Laboratorio<br>de hidraulica<br>y ergonomia;7;Laboratorio de hidraulica y ergonomia
+lamic;Grupo de<br>investigacion<br>LAMIC;7;Grupo de investigacion LAMIC
+evado;Oficina de<br>evaluacion<br>docente;7;Oficina de evaluacion docente
+lifae;Grupo de<br>investigacion<br>LIFAE;7;Grupo de investigacion LIFAE
+laser;Grupo de<br>investigacion<br>LASER;7;Grupo de investigacion LASER
+dsp;Grupo de<br>investigacion<br>DSP;7;Grupo de investigacion DSP
+b7;Bathroom piso 7;7;Bathroom piso 7
+ter;Terraza;8;Terraza

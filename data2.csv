@@ -1,0 +1,98 @@
+tag;piso;nombre2
+bib;1;Biblioteca 
+cafe;1;Cafeteria
+bienes;1;Bienestar institucional
+aud;1;Auditorio 
+plaz;1;Plazoleta
+e8;1;Entrada Carrera octava
+e7;1;Entrada Carreta septima
+b1;1;Bathroom piso 1
+s201;2;Salon 201
+s202;2;Salon 202
+s203;2;Salon 203
+s204;2;Salon 204
+s205;2;Salon 205
+s206;2;Salon 206
+b2;2;Bathroom piso 2
+s301;3;Salon 301
+s302;3;Salon 302
+s303;3;Salon 303
+s304;3;Salon 304
+s305;3;Salon 305
+s306;3;Salon 306
+s307;3;Salon 307
+s308;3;Salon 308
+s309;3;Salon 309
+s310;3;Salon 310
+s311;3;Salon 311
+s312;3;Salon 312
+b3;3;Bathroom piso 3
+alfoto;3;Almacen de fotogrametria
+s401;4;Salon 401
+s402;4;Salon 402
+s403;4;Salon 403
+s404;4;Salon 404
+s405;4;Salon 405
+s406;4;Salon 406
+s407;4;Salon 407
+s408;4;Salon 408
+s409;4;Salon 409
+s410;4;Salon 410
+s411;4;Salon 411
+s412;4;Salon 412
+b4;4;Bathroom piso 4
+sid;4;Semana de ingenio y diseno
+cg1;4;Centro de gestion
+cg2;4;Centro de gestion
+ieee;4;IEEE UD
+s500;5;Salon 500
+s501;5;Salon 501
+s502;5;Salon 502
+s503;5;Salon 503
+s504;5;Salon 504
+s505;5;Salon 505
+s506;5;Salon 506
+s507;5;Salon 507
+s508;5;Salon 508
+s509;5;Salon 509
+s510;5;Salon 510
+CoorLab;5;Coordilacion de laboratorios
+mTele5;5;Maestria en telecomunicaciones moviles
+labnano;5;Laboratorio de nanotecnologia
+labfoto;5;Laboratorio de fotogrametria digital
+b5;5;Bathroom piso 5
+labcir;6;Laboratorio de circuitos
+labelc1;6;Laboratorio de electronica
+labelc2;6;Laboratorio de electronica
+labelcb;6;Laboratorio de electronica basica
+labma;6;Laboratorio de maquinas
+labcom;6;Laboratorio de comunicaciones
+admisa;6;Administracion de salas de informatica
+admilab;6;Almacen de laboratorios
+s601;6;Salon 601
+labdi;6;Laboratorio de digitles
+astro;6;Astrofisica y ondas electromagneticas
+tele;6;Laboratorio de television
+gibud;6;GIBIUD
+labinv;6;Laboratorio de ingenieria inversa
+gitud;6;GITUD
+mTele6;6;Maestria en telecomunicaciones moviles
+sii;6;Semana de ingenieria industrial
+b6;6;Bathroom piso 6
+s701;7;Sala de informatica 701
+s702;7;Sala de informatica 702
+s703;7;Sala de informatica 703
+s704;7;Sala de informatica 704
+s705;7;Sala de informatica 705
+gitem;7;Grupo de investigacion GITEM
+labisf;7;Laboratorio de ingenieria de software
+labcc;7;Laboratorio de ciencias de la computacion
+labct;7;Laboratorio de control
+labhi;7;Laboratorio de hidraulica y ergonomia
+lamic;7;Grupo de investigacion LAMIC
+evado;7;Oficina de evaluacion docente
+lifae;7;Grupo de investigacion LIFAE
+laser;7;Grupo de investigacion LASER
+dsp;7;Grupo de investigacion DSP
+b7;7;Bathroom piso 7
+ter;8;Terraza
